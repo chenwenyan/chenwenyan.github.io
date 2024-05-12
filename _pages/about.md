@@ -20,7 +20,7 @@ Publications
 **Wenyan Chen**, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060)] [[code](https://github.com/buzy-coder/IADeep)] [[slides](http://chenwenyan.github.io/files/IADeep-slides.pdf)]
 
-[<font color="green">CLUSTER'23</font>] RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning<br>
+[<font color="green">CLUSTER'21</font>] RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning<br>
 **Wenyan Chen**, Chengzhi Lu, Kejiang Ye, Yang Wang, Chengzhong Xu.<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034)]
 

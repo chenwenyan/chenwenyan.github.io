@@ -9,7 +9,7 @@ redirect_from:
 
 I am the third-year Ph.D. student majoring in [Computer Science at Cloud and Distributed Systems (CDS) Lab](https://www.fst.um.edu.mo/personal/huanlexu/huanlexu-team/), University of Macau (2021-Present). I am advised by [Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/). My reseach interests focus on Cloud Computing, GPU multiplexing, Machine Learning System.
 
-I received my B.E. from the *School of Information Engineering* in Zhengzhou Univisity (2012~2016) and Master degree from the *School of Software Engineering* in NorthEast Normal University (2016~2019).
+I received my B.E. from the *School of Information Engineering* in Zhengzhou Univisity (2012~2016) and Master degree from the *School of Software Engineering* in Northeast Normal University (2016~2019).
 
 Email: wychen2018(at)gmail(dot)com
 

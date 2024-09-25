@@ -16,6 +16,12 @@ I received my B.E. from the *School of Information Engineering* in Zhengzhou Uni
 
 Publications
 ======
+[<font color="green">EuroSys'25</font>] Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters<br>
+**Wenyan Chen**, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
+
+[<font color="green">SC'24</font>] SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing<br>
+Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu.<br>
+
 [<font color="green">SC'23</font>] Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach<br>
 **Wenyan Chen**, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060)] [[code](https://github.com/buzy-coder/IADeep)] [[slides](http://chenwenyan.github.io/files/IADeep-slides.pdf)]

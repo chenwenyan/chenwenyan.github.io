@@ -7,43 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-I am the third-year Ph.D. student majoring in [Computer Science at Cloud and Distributed Systems (CDS) Lab](https://www.fst.um.edu.mo/personal/huanlexu/huanlexu-team/), University of Macau (2021-Present). I am supervised by [Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/) and [Kejiang Ye](https://people.ucas.edu.cn/~kejiang?language=en). My reseach interests focus on Cloud Computing, GPU Multiplexing, Machine Learning System.
+Greetings! I am a forth-year Ph.D. student majoring in the [Computer Science at Cloud and Distributed Systems (CDS) Lab](https://www.fst.um.edu.mo/personal/huanlexu/huanlexu-team/) at University of Macau (2021-Present), supervised by [*Prof. Huanle Xu*](https://www.fst.um.edu.mo/people/huanlexu/) and [*Prof. Kejiang Ye*](https://people.ucas.edu.cn/~kejiang?language=en). My reseach interests focus on Cloud Computing, GPU Virtualization, Systems for ML.
 
-I received my B.E. from the *School of Information Engineering* in Zhengzhou Univisity (2012~2016) and Master degree from the *School of Software Engineering* in Northeast Normal University (2016~2019).
-
-**Email:** wychen2018(at)gmail(dot)com
+&#x1F4E7; yc17498@um.edu.mo
 
 
 Publications
 ======
-[<font color="green">EuroSys'25</font>] Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters<br>
-**Wenyan Chen**, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
+&#x1F680; [<font color="green">EuroSys'25</font>] 
+Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters<br>
+<u>Wenyan Chen</u>, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
 
-[<font color="green">SC'24</font>] SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing<br>
-Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu.<br>
+&#x1F680; [<font color="green">SC'24</font>] SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing<br>
+Chengzhi Lu, Huanle Xu, Yudan Li, <u>Wenyan Chen</u>, Kejiang Ye, Chengzhong Xu.<br>
 
 [<font color="green">SC'23</font>] Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach<br>
-**Wenyan Chen**, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
+<u>Wenyan Chen</u>, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu.<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060)] [[code](https://github.com/buzy-coder/IADeep)] [[slides](http://chenwenyan.github.io/files/IADeep-slides.pdf)]
 
 [<font color="green">CLUSTER'21</font>] RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning<br>
-**Wenyan Chen**, Chengzhi Lu, Kejiang Ye, Yang Wang, Chengzhong Xu.<br>
+<u>Wenyan Chen</u>, Chengzhi Lu, Kejiang Ye, Yang Wang, Chengzhong Xu.<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034)]
 
 [<font color="green">HPCC'20</font>] HySync: Hybrid federated learning with effective synchronization<br>
-Guomei Shi, Li Li, Jun Wang, **Wenyan Chen**, Kejiang Ye, ChengZhong Xu.<br>
+Guomei Shi, Li Li, Jun Wang, <u>Wenyan Chen</u>, Kejiang Ye, ChengZhong Xu.<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9407951)]
 
 [<font color="green">ICPADS'19</font>] ADGS: anomaly detection and localization based on graph similarity in container-based clouds<br>
-Chengzhi Lu, Kejiang Ye, **Wenyan Chen**, Chengzhong Xu.<br>
+Chengzhi Lu, Kejiang Ye, <u>Wenyan Chen</u>, Chengzhong Xu.<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8975844)]
 
 [<font color="green">HPCC'19</font>] Co-locating online workload and offline workload in the cloud: An interference analysis<br>
-**Wenyan Chen**, Kejiang Ye, Chengzhong Xu.<br>
+<u>Wenyan Chen</u>, Kejiang Ye, Chengzhong Xu.<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8855680)]
 
 [<font color="green">ICPADS'18</font>] How does the workload look like in production cloud? analysis and clustering of workloads on alibaba cluster trace<br>
-**Wenyan Chen**, Kejiang Ye, Yang Wang, Guoyao Xu, Chengzhong Xu.<br>
+<u>Wenyan Chen</u>, Kejiang Ye, Yang Wang, Guoyao Xu, Chengzhong Xu.<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8644579)]
 
 

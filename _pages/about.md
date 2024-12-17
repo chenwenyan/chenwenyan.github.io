@@ -55,7 +55,7 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 
 - <span class="conf_title_badge">HPCC 2019</span> [Co-locating online workload and offline workload in the cloud: An interference analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8855680) **Wenyan Chen**, Kejiang Ye, Chengzhong Xu. 
 
-- <div class="conf_title_badge">ICPADS 2018</div> [How does the workload look like in production cloud? analysis and clustering of workloads on alibaba cluster trace](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8644579) **Wenyan Chen**, Kejiang Ye, Yang Wang, Guoyao Xu, Chengzhong Xu. 
+- <span class="conf_title_badge">ICPADS 2018</span> [How does the workload look like in production cloud? analysis and clustering of workloads on alibaba cluster trace](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8644579) **Wenyan Chen**, Kejiang Ye, Yang Wang, Guoyao Xu, Chengzhong Xu. 
 
 
 # 🎖 Honors and Awards

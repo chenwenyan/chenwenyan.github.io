@@ -41,11 +41,11 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 </div>
 </div> -->
 
-- <span class="conf_title_badge">EuroSys 2025</span> [Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters](https://github.com), **Wenyan Chen**, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+- <span class="conf_title_badge">EuroSys 2025</span> <a href=pdfs/mudi.pdf>Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, **Wenyan Chen**, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - <div class="conf_title_badge">SC 2024</div> [SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00044), Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:ufrVoPGSRksC'></span>
 
-- <div class="conf_title_badge">SC 2023</div> [Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060), Wenyan Chen, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu. [[Code]](https://github.com/buzy-coder/IADeep) [[Slides]](http://chenwenyan.github.io/files/IADeep-slides.pdf) 
+- <div class="conf_title_badge">SC 2023</div> [Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060), Wenyan Chen, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu. [[Code]](https://github.com/buzy-coder/IADeep) <a href=pdfs/IADeep-slides.pdf>[Slides]</a> 
 
 - <div class="conf_title_badge">CLUSTER 2021</div> [RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034), **Wenyan Chen**, Chengzhi Lu, Kejiang Ye, Yang Wang, Chengzhong Xu. 
 

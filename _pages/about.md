@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), supervised by <span style="text-decoration: underline;">[Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/people/huanlexu)</span> and <span style="text-decoration: underline;">[Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on cloud computing, GPU virtualization, systems for ML. <a href='https://scholar.google.com/citations?user=WKFOF1cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-</a>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -59,8 +58,8 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 
 
 # 🎖 Honors and Awards
-- *2019.06* Outstanding Graduate of Northeast Normal University
-- *2015.04* First Prize of ACM Programming Contest in Zhengzhou University 
+- *2019.06*, Outstanding Graduate of Northeast Normal University
+- *2015.04*, First Prize of ACM Programming Contest in Zhengzhou University 
 
 # 📖 Educations
 - *2021.08 - now*, PhD, Computer Science, University of Macau.

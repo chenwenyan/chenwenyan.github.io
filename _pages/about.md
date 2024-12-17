@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), supervised by <a href=https://www.fst.um.edu.mo/people/huanlexu>Prof. Huanle Xu</a>  and <a href=https://people.ucas.edu.cn/~kejiang?language=en>Prof. Kejiang Ye</a>. My reseach interests focus on Cloud Computing, GPU Virtualization, Systems for ML.
+Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), supervised by [Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/people/huanlexu) and [Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en). My reseach interests focus on cloud computing, GPU virtualization, systems for ML.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 </div>
 </div>
 
-- [SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing](https://github.com), Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu. **SC 2024**
+- <div class="badge">SC 2024</div> [SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing](https://github.com), Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu. 
 
 - [Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060), Wenyan Chen, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu. **SC 2023**. [[Code]](https://github.com/buzy-coder/IADeep) [[Slides]](http://chenwenyan.github.io/files/IADeep-slides.pdf) 
 

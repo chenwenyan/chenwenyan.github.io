@@ -41,7 +41,7 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 </div>
 </div> -->
 
-- <span class="conf_title_badge">EuroSys 2025</span> <a href="pdfs/mudi.pdf">Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, **Wenyan Chen**, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+- <span class="conf_title_badge">EuroSys 2025</span> <a href="pdfs/mudi.pdf">Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters</a>, **Wenyan Chen**, Chengzhi Lu, Huanle Xu, Kejiang Ye, Chengzhong Xu. <a href='https://scholar.google.com/citations?user=WKFOF1cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - <span class="conf_title_badge">SC 2024</span> [SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00044), Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:ufrVoPGSRksC'></span>
 

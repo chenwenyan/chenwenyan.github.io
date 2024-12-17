@@ -107,3 +107,17 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.conf_title_badge {
+    padding-left: 1rem;  /* 左边内边距为1rem */
+    padding-right: 1rem; /* 右边内边距为1rem */
+    position: static;    /* 改为静态定位，元素按正常文档流排列 */
+    /* position: relative; 如果需要相对定位，可以改为 relative */
+    margin-top: .5em;    /* 上外边距为0.5em */
+    margin-left: 0;      /* 去掉负的左外边距 */
+    color: white;        /* 文字颜色为白色 */
+    background-color: #409f00; /* 背景颜色为深蓝色 (#00369f) */
+    font-size: .8em;     /* 字体大小为0.8em（相对于父元素字体大小的80%） */
+    width: 100%;         /* 可选：让元素占据父元素的全部宽度 */
+    box-sizing: border-box; /* 确保内边距和边框不会影响元素的总宽度 */
+}

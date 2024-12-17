@@ -45,7 +45,7 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 
 - <span class="conf_title_badge">SC 2024</span> [SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00044), Chengzhi Lu, Huanle Xu, Yudan Li, **Wenyan Chen**, Kejiang Ye, Chengzhong Xu. <span class='show_paper_citations' data='WKFOF1cAAAAJ:ufrVoPGSRksC'></span>
 
-- <span class="conf_title_badge">SC 2023</span> [Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060), Wenyan Chen, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu. [[Code]](https://github.com/buzy-coder/IADeep) <a href="pdfs/IADeep-slides.pdf">[Slides]</a> 
+- <span class="conf_title_badge">SC 2023</span> [Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach](https://dl.acm.org/doi/pdf/10.1145/3581784.3607060), **Wenyan Chen**, Zizhao Mo, Huanle Xu, Kejiang Ye, Chengzhong Xu. [[Code]](https://github.com/buzy-coder/IADeep) <a href="pdfs/IADeep-slides.pdf">[Slides]</a> 
 
 - <span class="conf_title_badge">CLUSTER 2021</span> [RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556034), **Wenyan Chen**, Chengzhi Lu, Kejiang Ye, Yang Wang, Chengzhong Xu. 
 

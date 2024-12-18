@@ -63,12 +63,13 @@ Greetings! I am a forth-year PhD student in the Computer Science at Cloud and Di
 
 
 # 🎖 Honors and Awards
+- *2018~2020,2021,2023*, Dean's Excellence Award in SIAT
 - *2019.06*, Outstanding Graduate of Northeast Normal University
 - *2015.04*, First Prize of ACM Programming Contest in Zhengzhou University 
 
 # 📖 Educations
 - *2021.08 - now*, PhD, Computer Science, University of Macau.
-- *2016.09 - 2019.07*, Master. Software Engineering, Northeast Normal University.
+- *2016.09 - 2019.07*, Master, Software Engineering, Northeast Normal University.
 - *2012.09 - 2016.06*, BS, Software Engineering, Zhengzhou University. 
 
 # 💬 Talks

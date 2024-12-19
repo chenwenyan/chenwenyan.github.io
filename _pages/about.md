@@ -24,6 +24,7 @@ Greetings! I am a forth-year PhD student in the Cloud and Distributed Systems (C
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Mudi is accepted by EuroSys 2025.  
+- *2024.06*: &nbsp;🎉🎉 SMIless is accepted by SC 2024.
 
 # 📝 Publications 
 

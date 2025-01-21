@@ -108,12 +108,26 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+// .conf_title_badge {
+//     padding-left: 0.2rem;
+//     padding-right: 0.2rem;
+//     margin-top: .5em;
+//     margin-left: .5em;
+//     color: white;
+//     background-color: #A09952;
+//     font-size: .8em;
+// }
+
 .conf_title_badge {
-    padding-left: 0.2rem;
-    padding-right: 0.2rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
     margin-top: .5em;
     margin-left: .5em;
     color: white;
-    background-color: #A09952;
+    background-color: #A09952; /* 深色背景，提高对比度 */
     font-size: .8em;
+    border-radius: .5rem; /* 圆角 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影，进一步提升视觉效果 */
 }

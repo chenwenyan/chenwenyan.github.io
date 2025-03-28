@@ -7,7 +7,7 @@ first_name: Wenyan
 middle_name: 
 last_name: Chen
 contact_note: >
-  yc17498@um.edu.mo
+  Please feel free to reach out!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

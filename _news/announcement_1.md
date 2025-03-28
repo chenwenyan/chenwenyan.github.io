@@ -6,4 +6,4 @@ related_posts: false
 ---
 
  <!-- :sparkles:  -->
-SMIless is accepted by SC 2024. :smile:
+SMIless is accepted by SC 2024.

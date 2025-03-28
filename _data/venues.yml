@@ -1,9 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"SC":
+  url: https://sc24.supercomputing.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EuroSys":
+  url: https://www.eurosys.org/
 
 "Vision":
   color: "#009f36"

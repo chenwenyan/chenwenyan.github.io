@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.um.edu.mo'>University of Macau</a> Macau, China
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Wenyan Chen</p>
+    <p>University of Macau</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,4 +32,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Greetings! I am a forth-year PhD student in the Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), co-supervised by [Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/)</span> and [Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en)</span>. My research interests focus on cloud computing, GPU virtualization, systems for ML.
+Greetings! I am the final-year PhD candidate in the Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), co-supervised by [Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/) and [Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en). My research interests focus on cloud computing, GPU virtualization, systems for ML.

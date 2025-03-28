@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-smiless-is-accepted-by-sc-2024-smile",
+          title: 'SMIless is accepted by SC 2024. :smile:',
+          description: "",
+          section: "News",},{id: "news-mudi-was-accepted-by-eurosys-2025",
+          title: 'Mudi was accepted by EuroSys 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

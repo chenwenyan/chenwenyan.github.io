@@ -401,8 +401,8 @@ ninja.data = [{
             },},{id: "news-smiless-is-accepted-by-sc-2024",
           title: 'SMIless is accepted by SC 2024.',
           description: "",
-          section: "News",},{id: "news-mudi-was-accepted-by-eurosys-2025",
-          title: 'Mudi was accepted by EuroSys 2025.',
+          section: "News",},{id: "news-mudi-is-accepted-by-eurosys-2025",
+          title: 'Mudi is accepted by EuroSys 2025.',
           description: "",
           section: "News",},{
         id: 'social-email',

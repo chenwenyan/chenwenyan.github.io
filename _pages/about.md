@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Wenyan Chen</p>
+    <p>Wenyan Chen (文艳 陈)</p>
     <p>University of Macau</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -32,4 +32,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Greetings! I am the final-year PhD candidate in the Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), co-supervised by [Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/) and [Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en). My research interests focus on cloud computing, GPU virtualization, systems for ML.
+Greetings! I am a final-year PhD candidate in the Cloud and Distributed Systems (CDS) Lab at University of Macau (2021-Present), co-supervised by [Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/) and [Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en). My research interests focus on cloud computing, GPU virtualization, systems for ML.

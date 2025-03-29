@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mudi was accepted by EuroSys 2025.
+Mudi is accepted by EuroSys 2025.

@@ -34,6 +34,14 @@
   ],
   "volunteer": [
     {
+      "organization": "ICWS 2025",
+      "location": "Macau, China",
+      "position": "External Reviewer",
+      "url": "https://services.conferences.computer.org/2025/icws-2025",
+      "startDate": "2025-04-03",
+      "endDate": "2025-04-25"
+    },
+    {
       "organization": "HDIS 2023",
       "location": "Macau, China",
       "position": "Web Chair",

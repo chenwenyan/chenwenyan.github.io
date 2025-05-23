@@ -24,12 +24,12 @@
   "work": [
     {
       "name": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
-      "position": "Research Assistant",
+      "position": "Assistant Engineer",
       "url": "https://www.siat.ac.cn",
       "startDate": "2019-07-01",
       "endDate": "2021-08-01",
-      "summary": "Resource management based on deep learning; Job scheduling in container-based cloud platform.",
-      "highlights": ["Relativity"]
+      "summary": "Resource management and job scheduling in container-based cloud clusters.",
+      "highlights": ["Interference Modeling", "Resource Allocation"]
     }
   ],
   "volunteer": [
@@ -64,7 +64,7 @@
       "institution": "Northeast Normal University",
       "location": "Changchun, China",
       "url": "https://en.nenu.edu.cn/",
-      "area": "Computer Science",
+      "area": "Software Engineering",
       "studyType": "Msc",
       "startDate": "2016-09-01",
       "endDate": "2019-07-01" 
@@ -142,7 +142,7 @@
   "languages": [
     {
       "language": "Chinese",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {

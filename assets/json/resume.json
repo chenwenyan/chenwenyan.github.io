@@ -29,7 +29,16 @@
       "startDate": "2019-07-01",
       "endDate": "2021-08-01",
       "summary": "Resource management and job scheduling in container-based cloud clusters.",
-      "highlights": ["Interference Modeling", "Resource Allocation"]
+      "highlights": ["Job Placement", "Resource Allocation"]
+    },
+    {
+      "name": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
+      "position": "Visiting Student",
+      "url": "https://www.siat.ac.cn",
+      "startDate": "2018-03-01",
+      "endDate": "2019-06-30",
+      "summary": "Micro-architectural interference quantification and performance modeling for hybrid tasks.",
+      "highlights": ["Interference Quantification", "Performance Modeling"]
     }
   ],
   "volunteer": [
@@ -81,6 +90,11 @@
   ],
   "awards": [
     {
+      "title": "Student Travel Grant of EuroSys",
+      "date": "2025",
+      "awarder": "EuroSys"
+    },
+    {
       "title": "Outstanding Student Award of Dean Scholarship",
       "date": "2018~2023",
       "awarder": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
@@ -103,22 +117,64 @@
   ],
   "publications": [
     {
-      "name": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
-      "publisher": "In Proceedings of SC",
-      "releaseDate": "2023-11-13",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3581784.3607060"
-    },
-    {
       "name": "Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters",
       "publisher": "In Proceedings of EuroSys",
       "releaseDate": "2025-03-30",
       "url": "https://dl.acm.org/doi/pdf/10.1145/3689031.3696074"
     },
     {
-      "name": "Rptcn: Resource prediction for high-dynamic workloads in clouds based on deep learning",
+      "name": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
+      "publisher": "In Proceedings of SC",
+      "releaseDate": "2023-11-13",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3581784.3607060"
+    },
+    {
+      "name": "SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing",
+      "publisher":"In Proceedings of SC",
+      "releaseDate": "2024-11-17",
+      "url": "https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00044"
+    },
+    {
+      "name": "RPTCN: Resource prediction for high-dynamic workloads in clouds based on deep learning",
       "publisher": "In Proceedings of CLUSTER",
       "releaseDate": "2021-09-12",
-      "url": "https://ieeexplore.ieee.org/document/9556034/"
+      "url": "https://ieeexplore.ieee.org/document/9556034"
+    },
+    {
+      "name": "Interference analysis of co-located container workloads: a perspective from hardware performance counters",
+      "publisher":"In Journal of Computer Science and Technology",
+      "releaseDate": "2020-03-27",
+      "url": "https://link.springer.com/article/10.1007/s11390-020-9707-y"
+    },
+    {
+      "name": "Co-locating online workload and offline workload in the cloud: An interference analysis",
+      "publisher":"In Proceedings of HPCC",
+      "releaseDate": "2019-08-10",
+      "url": "https://ieeexplore.ieee.org/document/8855680"
+    },
+    {
+      "name": "How does the workload look like in production cloud? analysis and clustering of workloads on alibaba cluster trace",
+      "publisher":"In Proceedings of ICPADS",
+      "releaseDate": "2019-02-21",
+      "url": "https://ieeexplore.ieee.org/document/8644579"
+    }
+  ],
+  "talks": [
+    {
+      "name": "Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters",
+      "location": "Rotterdam, Netherlands",
+      "date": "2025-04-02"
+    },
+    {
+      "name": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
+      "location": "Denver, USA",
+      "date": "2023-11-13"
+    }
+  ],
+  "teaching assistant":[
+    {
+      "name": "Human-computer Interaction",
+      "date": "2021"
     }
   ],
   "skills": [
@@ -131,11 +187,21 @@
       "level": "Master"
     },
     {
+      "name": "Go",
+      "level": "Familar"
+    },
+    {
+      "name": "CUDA",
+      "level": "Familar"
+    }
+  ],
+  "Frameworks":[
+    {
       "name": "Kubernetes",
       "level": "Familar"
     },
     {
-      "name": "Go",
+      "name": "vLLM",
       "level": "Familar"
     }
   ],
@@ -153,11 +219,11 @@
   ],
   "interests": [
     {
-      "name": "Cloud Computing",
+      "name": "GPU Virtualization",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Operating System",
+      "name": "Systems for LLMs",
       "icon": "fa-solid fa-tag"
     }
   ]

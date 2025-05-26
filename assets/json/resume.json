@@ -74,7 +74,7 @@
     {
       "title": "Student Travel Grant of EuroSys",
       "date": "2025",
-      "awarder": "EuroSys"
+      "awarder": "EuroSys 2025"
     },
     {
       "title": "Outstanding Student Award of Dean Scholarship",
@@ -144,12 +144,12 @@
   "talks": [
     {
       "title": "Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters",
-      "location": "Rotterdam, Netherlands",
+      "awarder": "Rotterdam, Netherlands",
       "date": "2025-04-02"
     },
     {
       "title": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
-      "location": "Denver, USA",
+      "awarder": "Denver, USA",
       "date": "2023-11-13"
     }
   ],
@@ -173,7 +173,7 @@
   ],
   "teaching assistant":[
     {
-      "name": "Human-computer Interaction",
+      "title": "Human-computer Interaction",
       "date": "2021"
     }
   ],

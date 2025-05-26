@@ -143,12 +143,12 @@
   ],
   "talks": [
     {
-      "name": "Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters",
+      "title": "Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters",
       "location": "Rotterdam, Netherlands",
       "date": "2025-04-02"
     },
     {
-      "name": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
+      "title": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
       "location": "Denver, USA",
       "date": "2023-11-13"
     }

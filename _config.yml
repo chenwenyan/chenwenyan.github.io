@@ -633,6 +633,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
+  - reseach experiments
   - education
   - publications
   - projects
@@ -643,3 +644,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - 

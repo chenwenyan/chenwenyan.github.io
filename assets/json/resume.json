@@ -21,7 +21,7 @@
       }
     ]
   },
-  "Research Experiments": [
+  "research experiments": [
     {
       "name": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
       "position": "Assistant Engineer",
@@ -195,7 +195,7 @@
       "level": "Familar"
     }
   ],
-  "Frameworks":[
+  "frameworks":[
     {
       "name": "Kubernetes",
       "level": "Familar"

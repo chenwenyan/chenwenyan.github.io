@@ -41,24 +41,6 @@
       "highlights": ["Interference Quantification", "Performance Modeling"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "ICWS 2025",
-      "location": "Macau, China",
-      "position": "External Reviewer",
-      "url": "https://services.conferences.computer.org/2025/icws-2025",
-      "startDate": "2025-04-03",
-      "endDate": "2025-04-25"
-    },
-    {
-      "organization": "HDIS 2023",
-      "location": "Macau, China",
-      "position": "Web Chair",
-      "url": "https://world.hdis.com",
-      "startDate": "2023-10-01",
-      "endDate": "2024-01-01"
-    }
-  ],
   "education": [
     {
       "institution": "University of Macau",
@@ -169,6 +151,24 @@
       "name": "Interference-aware multiplexing for deep learning in gpu clusters: A middleware approach",
       "location": "Denver, USA",
       "date": "2023-11-13"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICWS 2025",
+      "location": "Macau, China",
+      "position": "External Reviewer",
+      "url": "https://services.conferences.computer.org/2025/icws-2025",
+      "startDate": "2025-04-03",
+      "endDate": "2025-04-25"
+    },
+    {
+      "organization": "HDIS 2023",
+      "location": "Macau, China",
+      "position": "Web Chair",
+      "url": "https://world.hdis.com",
+      "startDate": "2023-10-01",
+      "endDate": "2024-01-01"
     }
   ],
   "teaching assistant":[

@@ -104,11 +104,11 @@ layout: default
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'research experiments' %}
-                  {% include resume/work.liquid %}
+                  {% include resume/re.liquid %}
                 {% when 'talks' %}
-                  {% include resume/work.liquid %} 
+                  {% include resume/talks.liquid %} 
                 {% when 'teaching assistant' %}
-                  {% include resume/work.liquid %}                      
+                  {% include resume/ta.liquid %}                      
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
@@ -118,7 +118,7 @@ layout: default
                 {% when 'interests' %}
                   {% include resume/interests.liquid %}
                 {% when 'frameworks' %}
-                  {% include resume/interests.liquid %}
+                  {% include resume/frameworks.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}

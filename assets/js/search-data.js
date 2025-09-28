@@ -404,6 +404,9 @@ ninja.data = [{
           section: "News",},{id: "news-mudi-is-accepted-by-eurosys-2025",
           title: 'Mudi is accepted by EuroSys 2025.',
           description: "",
+          section: "News",},{id: "news-feddance-is-accepted-by-socc-2025",
+          title: 'FedDance is accepted by SoCC 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

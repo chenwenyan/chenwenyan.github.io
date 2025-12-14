@@ -407,6 +407,9 @@ ninja.data = [{
           section: "News",},{id: "news-feddance-is-accepted-by-socc-2025",
           title: 'FedDance is accepted by SoCC 2025.',
           description: "",
+          section: "News",},{id: "news-fedsuv-is-accepted-by-infocom-2026",
+          title: 'FedSUV is accepted by INFOCOM 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

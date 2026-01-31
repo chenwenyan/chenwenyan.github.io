@@ -67,17 +67,12 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
-          <div class="contact-icons">{% include social.liquid %}</div>
-          <script
-            type="text/javascript"
-            id="mapmyvisitors"
-            src="https://mapmyvisitors.com/map.js?cl=607593&w=300&t=t&d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353&w=120">
-          </script>
-        </div>
+        <div class="contact-icons">{% social_links %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
 
+        <div style="transform-origin: center top; margin-top: 4px;">
+          <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=6d5131&w=250&t=tt&d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ&co=f9fbfc&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
       </div>
     {% endif %}
 

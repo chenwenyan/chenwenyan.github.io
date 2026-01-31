@@ -34,7 +34,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Greetings! I am a Postdoctoral Researcher in the Hyperscale Systems and Cloud Architecture Lab at Nanyang Technological University (NTU), Singapore, working with [Prof. Dmitrii Ustiugov](https://ustiugov.github.io/). Previously, I was a PhD student at the Cloud and Distributed Systems (CDS) Lab at University of Macau (2021.08–2025.08), co-supervised by [Prof. Huanle Xu (徐欢乐)](https://www.fst.um.edu.mo/personal/huanlexu/) and [Prof. Kejiang Ye (叶可江)](https://people.ucas.edu.cn/~kejiang?language=en).
 
-## Research Interests
+### Research Interests
  
 - **GPU virtualization:** time-slicing/MPS-style sharing, performance modeling, and interference-aware placement for co-located workloads  
 - **LLM inference systems:** Adaptive KV-cache management, prefill–decode optimization for throughput/latency trade-offs  

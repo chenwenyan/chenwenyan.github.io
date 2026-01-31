@@ -67,7 +67,12 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
+          <div class="contact-icons">{% include social.liquid %}</div>
+          <div style="transform: scale(0.2); transform-origin: right center;">
+            <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ&cl=ffffff&w=a"></script>
+          </div>
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
 
@@ -77,10 +82,6 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
-
-    <div style="transform: scale(0.2); transform-origin: center bottom;">
-      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ&cl=ffffff&w=a"></script>
-    </div>
 
   </article>
 </div>

@@ -58,6 +58,11 @@
       <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
     {% when 'scholar_userid' %}
       <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      {% if page.layout == 'about' or page.permalink == '/' %}
+        <span style="display: inline-block; vertical-align: middle; margin-left: 6px; transform: scale(0.2); transform-origin: left center;">
+          <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ&cl=ffffff&w=a"></script>
+        </span>
+      {% endif %}
     {% when 'scopus_id' %}
       <a href="https://www.scopus.com/authid/detail.uri?authorId={{ social[1] }}" title="Scopus"><i class="ai ai-scopus"></i></a>
     {% when 'semanticscholar_id' %}

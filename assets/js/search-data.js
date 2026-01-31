@@ -410,6 +410,9 @@ ninja.data = [{
           section: "News",},{id: "news-fedsuv-is-accepted-by-infocom-2026",
           title: 'FedSUV is accepted by INFOCOM 2026.',
           description: "",
+          section: "News",},{id: "news-ellm-is-accepted-by-eurosys-2026",
+          title: 'eLLM is accepted by EuroSys 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

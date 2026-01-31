@@ -67,15 +67,14 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-
-        <div style="text-align: center; margin-top: 4px;">
-          <div style="display: inline-block; transform: scale(0.2); transform-origin: center top;">
+        <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+          <div class="contact-icons">{% include social.liquid %}</div>
+          <div style="transform: scale(0.2); transform-origin: left center;">
             <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ&cl=ffffff&w=a"></script>
           </div>
         </div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
 

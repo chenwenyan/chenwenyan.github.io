@@ -398,13 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-smiless-is-accepted-by-sc-2024",
-          title: 'SMIless is accepted by SC 2024.',
-          description: "",
-          section: "News",},{id: "news-mudi-is-accepted-by-eurosys-2025",
-          title: 'Mudi is accepted by EuroSys 2025.',
-          description: "",
-          section: "News",},{id: "news-feddance-is-accepted-by-socc-2025",
+            },},{id: "news-feddance-is-accepted-by-socc-2025",
           title: 'FedDance is accepted by SoCC 2025.',
           description: "",
           section: "News",},{id: "news-fedsuv-is-accepted-by-infocom-2026",

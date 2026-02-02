@@ -179,7 +179,7 @@
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% assign entrypublisher_text = entrypublisher | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entrypublisher_text != "" %}, {% endif %}{{ entrypublisher }}{% if entrypublisher_text != "" and (entrymonth != "" or entryyear != "") %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entrypublisher_text != "" %}, {% endif %}<em>{{ entrypublisher }}{% if entrypublisher_text != "" and (entrymonth != "" or entryyear != "") %}, {% endif %}{{ entrymonth }}{{ entryyear }}</em>{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>

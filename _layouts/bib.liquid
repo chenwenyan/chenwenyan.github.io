@@ -164,6 +164,9 @@
     {% if entry.year %}
       {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
     {% endif %}
+    {% if entry.publisher %}
+      {% capture entrypublisher %}{{ " " }}{{ entry.publisher }}{% endcapture %}
+    {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
     {% endif -%}
@@ -175,7 +178,8 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% assign entrypublisher_text = entrypublisher | strip %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entrypublisher_text != "" %}, {% endif %}{{ entrypublisher }}{% if entrypublisher_text != "" and (entrymonth != "" or entryyear != "") %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>

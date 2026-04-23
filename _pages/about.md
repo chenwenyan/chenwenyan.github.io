@@ -36,7 +36,6 @@ Greetings! I am a Postdoctoral Researcher in the Hyperscale Systems and Cloud Ar
 
 ### Research Interests
  
-- **GPU virtualization:** time-slicing/MPS-style sharing, performance modeling, and interference-aware placement for co-located workloads  
-- **LLM inference systems:** Adaptive KV-cache management, prefill–decode optimization for throughput/latency trade-offs  
-- **Multimodal/VLM serving:** token explosion mitigation and low-latency inference for streaming video inputs 
-- **Agentic workflows:** tool-calling/RAG pipelines, cache-aware multi-step execution, and multi-agent concurrency on shared GPU infrastructure 
+- **GPU virtualization:** Improving GPU utilization through temporal and spatial sharing while preserving performance isolation for co-located workloads.  
+- **LLM inference systems:** Accelerating LLM inference with adaptive recomputation and kernel fusion. 
+- **Multimodal/VLM serving:** Balancing accuracy and latency in multimodal inference through token pruning.

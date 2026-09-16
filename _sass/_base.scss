@@ -403,6 +403,7 @@ ul.task-list input[type="checkbox"] {
   .social-content {
     align-items: center;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 12px;
     justify-content: center;

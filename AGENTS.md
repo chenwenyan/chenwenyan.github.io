@@ -24,3 +24,7 @@ There is no unit-test suite. Before submitting changes, run a Jekyll build and t
 ## Commit & Pull Request Guidelines
 
 Recent commits use short, lowercase imperative summaries such as `update name` and `update new papers`; follow that concise style. For bugs and new features, open or reference an issue in the PR. Describe the affected pages or components, verification performed, and any configuration or content changes. Include screenshots for visual changes and confirm that formatting and the site build pass.
+
+## Agent-Specific Instructions
+
+Make only the changes explicitly requested by the user. Do not expand the scope, redesign related components, or modify unrelated files based on assumptions. Preserve existing user changes, and ask before making any additional change that is not necessary to fulfill the request.

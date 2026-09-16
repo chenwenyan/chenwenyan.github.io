@@ -400,6 +400,14 @@ ul.task-list input[type="checkbox"] {
 .social {
   text-align: center;
 
+  .social-content {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+  }
+
   .contact-icons {
     font-size: 4rem;
 
@@ -434,6 +442,13 @@ ul.task-list input[type="checkbox"] {
         }
       }
     }
+  }
+
+  .mapmyvisitors-container {
+    flex: 0 1 250px;
+    max-width: 100%;
+    overflow: hidden;
+    width: min(250px, 100%);
   }
 
   .contact-note {

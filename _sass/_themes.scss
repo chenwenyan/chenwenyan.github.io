@@ -6,7 +6,7 @@
 
 :root {
   color-scheme: light;
-  --global-bg-color: #{$morandi-bg-color};
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$morandi-text-color};
   --global-text-color-light: #{$morandi-muted-color};
@@ -18,11 +18,11 @@
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$morandi-muted-color};
   --global-divider-color: rgba(77, 101, 85, 0.18);
-  --global-card-bg-color: #{$morandi-card-color};
+  --global-card-bg-color: #{$white-color};
   --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(64, 82, 71, 0.55);
   --global-back-to-top-text-color: #{$white-color};
-  --global-newsletter-bg-color: #{$morandi-card-color};
+  --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$morandi-text-color};
 
   --global-tip-block: #78947f;
